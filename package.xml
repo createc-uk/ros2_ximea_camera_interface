@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>ximea_camera_interface</name>
+  <name>ximea_camera_interfaces</name>
   <version>0.0.0</version>
   <description>ROS2 interface for Ximea cameras</description>
   <author email="c25wang@uwaterloo.ca">Carlos Wang</author>
